@@ -1,0 +1,40 @@
+body {
+    font-family: "Calibri", serif;
+    width: 1200px;
+    margin:0 auto;
+    background: rgb(62, 60, 60);
+    color: #d0d0d0;
+}
+
+header {
+    text-align: center;
+    color: #b9b7c1;
+
+}
+
+.import{
+    width: 300px;
+    float:left;
+}
+
+.tabulka{
+    width:700px;
+    float:left;
+}
+
+.import input{
+    border: solid 1px rgb(201, 201, 201);
+    border-radius: 5px;
+    background: rgb(62, 60, 60);
+    color: #d0d0d0;
+}
+
+.import input:hover{
+    border-color: #2ae200;
+}
+
+header h1{
+    margin: 10px;
+    font-size: 50px;
+    font-family: Calibri, serif;
+}
